@@ -289,7 +289,6 @@
         
         .featured-img {
             height: 200px;
-            background-color: #ddd;
             background-size: cover;
             background-position: center;
         }
@@ -332,10 +331,10 @@
         }
         
         .gallery-img {
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
-            transition: var(--transition);
+            width: 100px
+            height: 200px;
+            background-size: cover;
+            
         }
         
         .gallery-item:hover .gallery-img {
