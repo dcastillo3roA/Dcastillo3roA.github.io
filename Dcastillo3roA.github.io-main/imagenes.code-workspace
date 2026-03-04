@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "imagenes",
+			"path": "../Dcastillo3roA.github.io-main (5)/Dcastillo3roA.github.io-main/imagenes"
+		},
+		{
+			"name": "Dcastillo3roA.github.io-main",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Dcastillo3roA.github.io-main"
+	}
+}
